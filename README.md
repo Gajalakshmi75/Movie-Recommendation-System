@@ -16,3 +16,6 @@ your preferred items based on your preferences or those of people similar to you
 	Genres: Movie Genres in the list.<br>
 	Cast: Cast of the movie on the list.<br>
 	Crew: Crew of the movie in the list. <br>
+## RESULT
+![Screenshot (706)](https://github.com/Gajalakshmi75/Movie-Recommendation-System/assets/126240213/046b010d-a779-4884-ae0e-8a42f9320f04)
+
